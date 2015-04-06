@@ -1,3 +1,4 @@
 # dockerfiles
 
-Docker勉強用
+Docker
+apache-php-mysql: LAMP
